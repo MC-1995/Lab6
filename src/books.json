@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Alice",
+    "surname": "Smith",
+    "phone": "+79161234567",
+    "favoriteBooks": [
+      {
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishingYear": 1813,
+        "isbn": "978-0141439518",
+        "publisher": "Penguin Classics"
+      },
+      {
+        "name": "Emma",
+        "author": "Jane Austen",
+        "publishingYear": 1815,
+        "isbn": "978-0141439587",
+        "publisher": "Penguin Classics"
+      }
+    ],
+    "subscribed": true
+  },
+  {
+    "name": "Bob",
+    "surname": "Johnson",
+    "phone": "+79169876543",
+    "favoriteBooks": [
+      {
+        "name": "1984",
+        "author": "George Orwell",
+        "publishingYear": 1949,
+        "isbn": "978-0451524935",
+        "publisher": "Signet Classic"
+      }
+    ],
+    "subscribed": false
+  },
+  {
+    "name": "Carol",
+    "surname": "Williams",
+    "phone": "+79165554433",
+    "favoriteBooks": [
+      {
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publishingYear": 1813,
+        "isbn": "978-0141439518",
+        "publisher": "Penguin Classics"
+      },
+      {
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publishingYear": 1925,
+        "isbn": "978-0743273565",
+        "publisher": "Scribner"
+      },
+      {
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publishingYear": 1960,
+        "isbn": "978-0061120084",
+        "publisher": "Harper Perennial"
+      }
+    ],
+    "subscribed": true
+  }
+]
